@@ -15,8 +15,7 @@ This GitHub organization centralizes the software, embedded firmware, hardware d
 ## 📂 Key Repositories
 * **`dashboard-ms02`** — Active development of the MS02 dashboard: STM32G0B1 firmware (`CAN_Nextion_Bridge`) and Nextion HMI interface.
 * **`dashboard-ms01`** — Legacy archive of the MS01 dashboard (STM32 firmware, Nextion HMI, PCB Gerbers, mechanical CAD, and CAN testing scripts).
-* **`led-clusters`** — Control firmware and hardware designs for custom LED clusters.
-
+* 
 ## 🌐 Connect With Us
 * **Official Website:** [motostudent.fe.up.pt](https://motostudent.fe.up.pt/)
 * **Institution:** [Faculty of Engineering of the University of Porto (FEUP)](https://www.fe.up.pt/)
