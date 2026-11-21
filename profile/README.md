@@ -1,4 +1,7 @@
-# MotoStudent FEUP (MSFEUP) 🏍️⚡
+<div align="center">
+  <img src="./logo.png" alt="MotoStudent FEUP Logo" width="220"/>
+  <h1>MotoStudent FEUP (MSFEUP) 🏍️⚡</h1>
+</div>
 
 Welcome to the official GitHub organization of **MotoStudent FEUP (MSFEUP)** — the student engineering team from the **Faculty of Engineering of the University of Porto (FEUP)** dedicated to designing, developing, and manufacturing an electric racing motorcycle prototype for the **MotoStudent Electric** category[cite: 1].
 
@@ -8,15 +11,15 @@ Competing in the **IX MotoStudent International Competition** (culminating at th
 ## 🔧 What We Build Here
 This GitHub organization centralizes the software, embedded firmware, hardware designs, and telemetry tools developed by our electronics and software divisions:
 
-* **Embedded Systems & Firmware:** STM32 microcontroller programming (C/HAL), FDCAN / CAN Bus communication, sensor acquisition, and vehicle control.
-* **Dashboard & HMI:** Real-time rider interfaces using Nextion displays and live telemetry visualization.
-* **Electronics & Hardware:** Custom PCB design, schematics, LED clusters, and system integration.
+- **Embedded Systems & Firmware:** STM32 microcontroller programming (C/HAL), FDCAN / CAN Bus communication, sensor acquisition, and vehicle control.
+- **Dashboard & HMI:** Real-time rider interfaces using Nextion displays and live telemetry visualization.
+- **Electronics & Hardware:** Custom PCB design, schematics, LED clusters, and system integration.
 
 ## 📂 Key Repositories
-* **`dashboard-ms02`** — Active development of the MS02 dashboard: STM32G0B1 firmware (`CAN_Nextion_Bridge`) and Nextion HMI interface.
-* **`dashboard-ms01`** — Legacy archive of the MS01 dashboard (STM32 firmware, Nextion HMI, PCB Gerbers, mechanical CAD, and CAN testing scripts).
-* 
+- **`dashboard-ms02`** — Active development of the MS02 dashboard: STM32G0B1 firmware (`CAN_Nextion_Bridge`) and Nextion HMI interface[cite: 1].
+- **`dashboard-ms01`** — Legacy archive of the MS01 dashboard (STM32 firmware, Nextion HMI, PCB Gerbers, mechanical CAD, and CAN testing scripts)[cite: 1].
+
 ## 🌐 Connect With Us
-* **Official Website:** [motostudent.fe.up.pt](https://motostudent.fe.up.pt/)
-* **Institution:** [Faculty of Engineering of the University of Porto (FEUP)](https://www.fe.up.pt/)
-* **Competition:** [MotoStudent International Competition](https://www.motostudent.com/) (Moto Engineering Foundation)[cite: 1]
+- **Official Website:** [motostudent.fe.up.pt](https://motostudent.fe.up.pt/)
+- **Institution:** [Faculty of Engineering of the University of Porto (FEUP)](https://www.fe.up.pt/)
+- **Competition:** [MotoStudent International Competition](https://www.motostudent.com/) (Moto Engineering Foundation)[cite: 1]
