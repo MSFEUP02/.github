@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../logo.png" alt="MotoStudent FEUP Logo" width="220"/>
+  <img src="../logo.png" alt="MotoStudent FEUP Logo" width="100%"/>
   <h1>MotoStudent FEUP (MSFEUP) 🏍️⚡</h1>
 </div>
 
